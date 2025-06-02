@@ -70,16 +70,11 @@ http://127.0.0.1:8050
 
 ---
 
-## ✨ لقطات شاشة
-
-![Tesla Dashboard Screenshot](Screenshot from 2025-06-02 03-23-27.png)
-
----
 
 ## 👨‍💻 تم بواسطة
 
 كريم فرحات – قناة مختصة بالبرمجة والأمن السيبراني 🚀  
-[Telegram](https://t.me/your_channel) | [GitHub](https://github.com/your_username)
+[Telegram]((https://t.me/FarahatSchool)) | [GitHub](https://github.com/KareemOFarahat)
 
 ---
 
